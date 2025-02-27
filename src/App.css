@@ -1,0 +1,26 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.text-start {
+  text-align: left;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.ant-input-wrapper .ant-input-group-addon .ant-btn {
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+  height: auto !important;
+}
+
+.ant-input-affix-wrapper {
+  padding-top: 8px !important;
+  padding-bottom: 8.7px !important;
+  height: auto !important;
+}
